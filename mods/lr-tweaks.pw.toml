@@ -1,0 +1,13 @@
+name = "LR Tweaks"
+filename = "lr-tweaks-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/enpuHtnW/versions/tt9BMH49/lr-tweaks-1.0.1.jar"
+hash-format = "sha1"
+hash = "19220b4630be4a7fc0a6fa4825e5b1f164febec9"
+
+[update]
+[update.modrinth]
+mod-id = "enpuHtnW"
+version = "tt9BMH49"

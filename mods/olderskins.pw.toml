@@ -1,0 +1,13 @@
+name = "OlderSkins"
+filename = "OlderSkins-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ckpY6tQu/versions/aA4SKJS0/OlderSkins-1.0.0.jar"
+hash-format = "sha1"
+hash = "d5a951446c2ff4f556a16bb4105a45b7a44cbc8a"
+
+[update]
+[update.modrinth]
+mod-id = "ckpY6tQu"
+version = "aA4SKJS0"

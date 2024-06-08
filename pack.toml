@@ -1,0 +1,13 @@
+name = "Legacy Remade"
+author = "Permdog99"
+version = "1.4.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e0b7f4a461391f097f7d5931ebcaf960589cd26aa865e109bd93e1f308eb0ab1"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"
