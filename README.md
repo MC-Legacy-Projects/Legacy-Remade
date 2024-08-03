@@ -78,7 +78,7 @@ While the GPL liscense gives you permission to do so, I would strongly advice yo
 If a port exists on Modrinth, then yes.
 
 ### Is there an official Discord community?
-Not at the moment, but if this modpack gets popular enough, I will definitely make one!
+[Right Here!](https://discord.gg/BXkUxFDz8c)
 
 </details>
 
