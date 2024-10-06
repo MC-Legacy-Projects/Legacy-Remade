@@ -1,0 +1,19 @@
+{
+  "description": {
+    "translate": "legacy.menu.assorts.minecraft_classic.description"
+  },
+  "icon": "legacy:icon/minecraft_classic",
+  "background": "legacy:icon/minecraft_classic_background",
+  "packs": [
+    "vanilla",
+    "fabric",
+    "programmer_art",
+    "file/PACP-1.9_01-Comparity.zip",
+    "file/Legacy-Skin-Packs.zip",
+    "file/Legacy Remade Resources"
+  ],
+  "id": "minecraft_classic",
+  "name": {
+    "translate": "legacy.menu.assorts.minecraft_classic"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "description": "Make your worlds simple, colorful and vibrant!",
+  "icon": "legacy:icon/plastic_pack",
+  "background": "legacy:icon/plastic_background",
+  "packs": [
+    "vanilla",
+    "fabric",
+    "file/Legacy Remade Resources",
+    "file/Legacy-Skin-Packs.zip",
+    "file/Plastic Texture Pack.zip"
+  ],
+  "id": "plastic_pack",
+  "name": "Plastic Texture Pack"
+}

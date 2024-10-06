@@ -3,11 +3,11 @@ filename = "Plastic Texture Pack.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/meEXwbr9/versions/rHmvLgtj/Plastic%20Texture%20Pack.zip"
-hash-format = "sha1"
-hash = "819caacfcd9107c2c0c51d79f0e6931515a2706f"
+url = "https://cdn.modrinth.com/data/meEXwbr9/versions/DXjlblGZ/Plastic%20Texture%20Pack.zip"
+hash-format = "sha512"
+hash = "fb146f5ffa414cad8b5cbbd675bf71fbdfb05dce1483fcfd338962bd3cac6cba6eaca974c0da8312bd3648246abebd6390ab4d499b0102d2bfd01fb5a554f12e"
 
 [update]
 [update.modrinth]
 mod-id = "meEXwbr9"
-version = "rHmvLgtj"
+version = "DXjlblGZ"

@@ -1,0 +1,13 @@
+name = "Fallout Mash-up Pack"
+filename = "FalloutMash-upPack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YyQcuyAN/versions/UZEBNeOe/FalloutMash-upPack.zip"
+hash-format = "sha1"
+hash = "0f6fca1ac40b3b97a2b99bedac2dee01eca7a0ad"
+
+[update]
+[update.modrinth]
+mod-id = "YyQcuyAN"
+version = "UZEBNeOe"

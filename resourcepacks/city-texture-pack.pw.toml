@@ -1,0 +1,13 @@
+name = "City Texture Pack"
+filename = "City Texture Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IcRlkcNt/versions/mz7GO5r6/City%20Texture%20Pack.zip"
+hash-format = "sha512"
+hash = "78bedebf644113b98af96a72a649c8d7ca0f2b62d6e800bac90b9bdcf6a9c6fb1c3eb7ba54edd1b2b17a738bdc170e31f9d195a2abfcbc183769ccbc79d7d068"
+
+[update]
+[update.modrinth]
+mod-id = "IcRlkcNt"
+version = "mz7GO5r6"

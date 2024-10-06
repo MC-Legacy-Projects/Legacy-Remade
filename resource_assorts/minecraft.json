@@ -1,0 +1,17 @@
+{
+  "description": {
+    "translate": "legacy.menu.assorts.minecraft.description"
+  },
+  "background": "legacy:icon/background",
+  "packs": [
+    "vanilla",
+    "fabric",
+    "file/Legacy-Skin-Packs.zip",
+    "legacy:console_aspects",
+    "file/Legacy Remade Resources"
+  ],
+  "id": "minecraft",
+  "name": {
+    "translate": "legacy.menu.assorts.minecraft"
+  }
+}

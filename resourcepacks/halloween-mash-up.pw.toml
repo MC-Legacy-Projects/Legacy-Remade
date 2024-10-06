@@ -3,11 +3,11 @@ filename = "Halloween.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mXZavX3c/versions/dGqVuTAi/Halloween.zip"
-hash-format = "sha1"
-hash = "a520987e45433321a4556bb8f03b6c6999caad1b"
+url = "https://cdn.modrinth.com/data/mXZavX3c/versions/wFYH67SI/Halloween.zip"
+hash-format = "sha512"
+hash = "fa0e63fdbec1051ddabe808b2e0a55821e18df9802445292271770893ca6208c61f531797761e73bb73225f9e205dc505c4ea961889a574e6a79b8da26a6bfff"
 
 [update]
 [update.modrinth]
 mod-id = "mXZavX3c"
-version = "dGqVuTAi"
+version = "wFYH67SI"

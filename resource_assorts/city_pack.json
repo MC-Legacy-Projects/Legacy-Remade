@@ -1,0 +1,12 @@
+{
+  "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.",
+  "packs": [
+    "vanilla",
+    "fabric",
+    "file/Legacy-Skin-Packs.zip",
+    "file/Legacy Remade Resources",
+    "file/City Texture Pack.zip"
+  ],
+  "id": "city_pack",
+  "name": "City Texture Pack"
+}

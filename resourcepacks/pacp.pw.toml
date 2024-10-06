@@ -1,13 +1,13 @@
 name = "Programmer Art Continuation Project"
-filename = "PACP 1.8 Beta 3 Comparity Version.zip"
+filename = "PACP-1.9_01-Comparity.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gx2HeuWD/versions/eeO5iL33/PACP%201.8%20Beta%203%20Comparity%20Version.zip"
+url = "https://cdn.modrinth.com/data/gx2HeuWD/versions/2QfTXdVX/PACP-1.9_01-Comparity.zip"
 hash-format = "sha1"
-hash = "fce564c35c802c51dc21b217d81d4843aa93ecc8"
+hash = "6ba0b0b63e5d48c6c7e54868f89728f1d9b95565"
 
 [update]
 [update.modrinth]
 mod-id = "gx2HeuWD"
-version = "eeO5iL33"
+version = "2QfTXdVX"

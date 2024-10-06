@@ -1,0 +1,8 @@
+{
+  "legacy.menu.fallout": {
+    "icon": "fallout:creation_list/fallout",
+    "templateLocation": "fallout:saves/falloutworld.mcsave",
+    "folderName": "Fallout World",
+    "directJoin": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "description": "The Fallout (Vault-Tec) Mash-up Pack from Minecraft Legacy Console Edition",
+  "icon": "legacy:icon/fallout_pack",
+  "background": "legacy:icon/fallout_background",
+  "packs": [
+    "vanilla",
+    "fabric",
+    "file/Legacy Remade Resources",
+    "file/Legacy-Skin-Packs.zip",
+    "file/FalloutMash-upPack.zip"
+  ],
+  "id": "fallout_mashup",
+  "name": "Fallout Mash-up Pack"
+}

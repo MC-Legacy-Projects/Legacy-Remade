@@ -1,0 +1,14 @@
+{
+  "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride!",
+  "icon": "legacy:icon/halloween_pack",
+  "background": "legacy:icon/halloween_background",
+  "packs": [
+    "vanilla",
+    "fabric",
+    "file/Legacy Remade Resources",
+    "file/Legacy-Skin-Packs.zip",
+    "file/Halloween.zip"
+  ],
+  "id": "halloween_mashup",
+  "name": "Halloween Mash-up Pack"
+}

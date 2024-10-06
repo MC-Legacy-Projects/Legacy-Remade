@@ -1,0 +1,13 @@
+name = "Super Duper Vanilla"
+filename = "superDuperVanilla.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LMIZZNxZ/versions/CZI2Ls4S/superDuperVanilla.zip"
+hash-format = "sha512"
+hash = "120b54d4e60f510243ce82c528b64e0ebe5257bbde6911568a250ac8af5784c99254c7bd6a03dcbe2f17f68509631960e875f32f33dfc9c3d210acf9e280b2df"
+
+[update]
+[update.modrinth]
+mod-id = "LMIZZNxZ"
+version = "CZI2Ls4S"
